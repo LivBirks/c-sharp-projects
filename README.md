@@ -1,2 +1,2 @@
-# microsoft-training
-Projects from Microsoft training for C#.
+# c-sharp-training
+Projects from Codecademy for C#.
